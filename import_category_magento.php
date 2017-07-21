@@ -3,6 +3,9 @@
  * Author name: Aditya Agarwal
  *
  * Description: Import All The Categroies From The Old Site To The New Site
+ * Version : 2.0
+ * Main contributer: Aditya
+ * Last Modified By: Shourya
  */
 $mageFilename = 'app/Mage.php';
 require_once $mageFilename;

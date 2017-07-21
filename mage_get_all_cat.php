@@ -3,6 +3,9 @@
  * Author name: Aditya Agarwal
  * 
  * Description: Get all the categroies id's of the site
+ * Version : 2.0
+ * Main contributer: Aditya
+ * Last Modified By: Shourya
  */
 $mageFilename = 'app/Mage.php';
 require_once $mageFilename;
